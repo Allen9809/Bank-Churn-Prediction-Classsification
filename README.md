@@ -1,4 +1,5 @@
-# Bank Churn Prediction
+# Bank Churn Prediction Project
+
 ## Overview
 The Bank Churn Prediction project aims to develop a machine learning model to predict customer churn for a bank. Churn prediction is crucial for businesses to identify customers who are likely to leave and take preventive measures to retain them. In this project, we analyze a dataset obtained from Kaggle containing information about bank customers, including their demographics, banking activities, and whether they churned or not.
 
@@ -14,8 +15,9 @@ Before training the machine learning models, the dataset needs to be preprocesse
 3. Model Training
 Two main methods are employed for model training:
 
-Method 1: Select the Baseline Model, Fine-tune the Selected Model, then Evaluate it.
-Method 2: Fine-tune All Models, Select the Best One, and Evaluate it.
+- Method 1: Select the Baseline Model, Fine-tune the Selected Model, then Evaluate it.
+- Method 2: Fine-tune All Models, Select the Best One, and Evaluate it.
+
 Several machine learning algorithms are considered for training, including Logistic Regression, Random Forest, XGBoost, and SVM. Each model is trained and optimized using appropriate techniques such as hyperparameter tuning to improve performance.
 
 4. Model Evaluation
@@ -32,8 +34,3 @@ The project repository follows a structured format with directories for data, no
 
 ## Conclusion
 The Bank Churn Prediction project demonstrates the application of machine learning techniques to solve a real-world business problem. By accurately predicting customer churn, banks can take proactive steps to retain customers and improve overall customer satisfaction and profitability.
-
-
-
-
-
