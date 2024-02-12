@@ -1,4 +1,4 @@
-# Bank Churn Prediction Project
+# Bank Churn Prediction
 ## Overview
 The Bank Churn Prediction project aims to develop a machine learning model to predict customer churn for a bank. Churn prediction is crucial for businesses to identify customers who are likely to leave and take preventive measures to retain them. In this project, we analyze a dataset obtained from Kaggle containing information about bank customers, including their demographics, banking activities, and whether they churned or not.
 
