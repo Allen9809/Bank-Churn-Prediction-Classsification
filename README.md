@@ -29,8 +29,5 @@ After selecting the best-performing model, feature interpretation techniques are
 ## Project Outcome
 The primary goal of the project is to develop a robust machine learning model with high recall rate to accurately predict bank customer churn. The final model is deployed and can be used by the bank to identify customers at risk of churning and take proactive measures to retain them, thereby improving customer retention and business profitability.
 
-## Repository Structure
-The project repository follows a structured format with directories for data, notebooks, source code, trained models, and documentation. The README file provides an overview of the project, including its objectives, methodology, and instructions for replicating the analysis.
-
 ## Conclusion
 The Bank Churn Prediction project demonstrates the application of machine learning techniques to solve a real-world business problem. By accurately predicting customer churn, banks can take proactive steps to retain customers and improve overall customer satisfaction and profitability.
